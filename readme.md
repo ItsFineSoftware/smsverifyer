@@ -1,4 +1,2 @@
-##how to send fax
-==============
 
-website for howtosendfax.com
+website for [howtosendfax.com](https://howtosendfax.com)
