@@ -1,2 +1,2 @@
 
-website for [howtosendfax.com](https://howtosendfax.com)
+website for [fax from computer](https://faxfromcomputer.org)
