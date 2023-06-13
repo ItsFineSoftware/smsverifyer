@@ -1,2 +1,2 @@
 
-website for [fax from computer](https://faxfromcomputer.org)
+website for [sms verifyer](https://smsverifyer.com)
